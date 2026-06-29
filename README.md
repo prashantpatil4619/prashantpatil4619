@@ -2,8 +2,7 @@
 
 # AWS Cloud | Linux | Cloud Support Enthusiast
 
-I am an aspiring AWS Cloud and Linux Engineer with hands-on experience in deploying applications on AWS. I enjoy learning cloud technologies and building practical projects.
-
+I am an aspiring AWS Cloud and Linux Engineer with hands-on experience deploying a cloud-based application on AWS. I enjoy learning cloud technologies, Linux administration, and solving real-world infrastructure challenges.
 ## 🛠️ Skills
 
 - AWS EC2
