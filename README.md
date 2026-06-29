@@ -1,6 +1,6 @@
 # Hi, I'm Prashant Patil 👋
 
-## ☁️ AWS Cloud & Linux Fresher
+# AWS Cloud | Linux | Cloud Support Enthusiast
 
 I am an aspiring AWS Cloud and Linux Engineer with hands-on experience in deploying applications on AWS. I enjoy learning cloud technologies and building practical projects.
 
