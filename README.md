@@ -16,7 +16,6 @@ I am an aspiring AWS Cloud and Linux Engineer with hands-on experience deploying
 - Let's Encrypt SSL
 - Git & GitHub
 - MySQL
-- REST APIs
 
 ## 🚀 Featured Project
 
